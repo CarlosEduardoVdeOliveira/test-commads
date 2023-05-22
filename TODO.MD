@@ -1,0 +1,5 @@
+- [ ] Estudar git e github;
+- [ ] Estudar Javascript;
+- [ ] Estudar Reactjs;
+- [ ] Estudar Nextjs;
+- [ ] Estudar Nodejs;
