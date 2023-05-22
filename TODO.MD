@@ -1,4 +1,4 @@
-- [ ] Estudar git e github;
+- [x] Estudar git e github;
 - [ ] Estudar Javascript;
 - [ ] Estudar Reactjs;
 - [ ] Estudar Nextjs;
