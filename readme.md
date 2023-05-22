@@ -2,3 +2,5 @@
 
 ## Titulo 2
 * git push
+* git pull
+* modificando o arquivo
